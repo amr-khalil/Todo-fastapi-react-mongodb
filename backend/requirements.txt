@@ -1,0 +1,6 @@
+# sudo python -m pip install --upgrade pyOpenSSL
+
+fastapi
+uvicorn
+motor
+pyOpenSSL
